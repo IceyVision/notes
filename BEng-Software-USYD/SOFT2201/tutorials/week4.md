@@ -2,7 +2,7 @@
 
 ## Q1: Issues with Constructors
 
-<img width="350" alt="vehicleApplication class" src="image/w4-q1.png">
+<img width="350" alt="vehicleApplication class" src="images/w4-q1.png">
 
 **Readablitiy**
 - Quite poor.
@@ -27,4 +27,4 @@
 <br>
 
 ## Q2: Is this better? (hint: kinda)
-<img width="400" alt="vehicleApplication class improved" src="image/w4-q2.png">
+<img width="400" alt="vehicleApplication class improved" src="images/w4-q2.png">
